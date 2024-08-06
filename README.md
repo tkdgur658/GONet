@@ -1,6 +1,6 @@
 # PyTorch Implementation of GONet (for performance comparison in paper "Multihead Neural Network for Multiple Segmented Images-based Diagnosis of Thyroid-associated Orbitopathy Activity")
  
-The preprocessing and architecture can be referenced by a manuscript entitled, ""Deep learning-based diagnosis of disease activity in patients with Graves’ orbitopathy using orbital SPECT/CT." 
+The preprocessing and architecture can be referenced by a manuscript entitled, "Deep learning-based diagnosis of disease activity in patients with Graves’ orbitopathy using orbital SPECT/CT." 
 
 ## Overview
 This repository contains an unofficial implementation of GONet using PyTorch.<br/>
